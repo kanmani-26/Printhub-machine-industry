@@ -1,8 +1,28 @@
-# React + Vite
+# PrintHub Machine Industries
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+PrintHub Machine Industries is a responsive web application developed as a final year group project.  
+The system allows users to browse machines, submit customization requests, and track request status in real time.  
+Administrators can review, update, and manage customer requests efficiently using a secure cloud-based backend.
 
-Currently, two official plugins are available:
+## Features
+- Browse available machines
+- Submit customization requests
+- Real-time request tracking
+- Admin dashboard for managing requests
+- Responsive UI
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- React.js
+- Firebase
+- HTML
+- CSS
+- JavaScript
+
+## My Contribution
+- Developed frontend UI
+- Designed responsive layouts
+- Implemented request submission features
+- Integrated Firebase database
+
+## Project Type
+Final Year Group Project – BCA
